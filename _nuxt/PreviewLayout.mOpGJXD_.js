@@ -1,0 +1,1 @@
+import{k as t,b as o,c as s,Y as r}from"./entry.qSPy6NID.js";const a={},c={class:"preview-layout"};function n(e,d){return o(),s("div",c,[r(e.$slots,"default",{},void 0,!0)])}const l=t(a,[["render",n],["__scopeId","data-v-6ed99933"]]);export{l as default};

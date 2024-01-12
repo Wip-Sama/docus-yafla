@@ -1,0 +1,1 @@
+{"id":"17c7aeaf-f067-48ce-8ee2-487c933ced44","timestamp":1705061018765,"matcher":{"static":{"/":null,"/api":null,"/api/search":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/start","/scripts/actions","/scripts/gui/introduction","/table/setup","/scripts/gui/gui_components","/prototypes/styles","/scripts/gui/gui_builder","/scripts/extended_table","/guide"]}
