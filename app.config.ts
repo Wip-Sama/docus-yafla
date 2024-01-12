@@ -1,11 +1,10 @@
 export default defineAppConfig({
   docus: {
-    title: 'Docus',
-    description: 'The best place to start your documentation.',
+    title: "YAFLA",
+    description: "Yet another factorio library attempt.",
     image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
     socials: {
-      twitter: 'nuxt_js',
-      github: 'nuxt-themes/docus',
+      github: 'Wip-Sama/yafla',
       nuxt: {
         label: 'Nuxt',
         icon: 'simple-icons:nuxtdotjs',
@@ -13,10 +12,10 @@ export default defineAppConfig({
       }
     },
     github: {
-      dir: '.starters/default/content',
+      dir: '.content',
       branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
+      repo: 'docus-yafla',
+      owner: 'Wip-Sama',
       edit: true
     },
     aside: {
@@ -29,10 +28,11 @@ export default defineAppConfig({
       fluid: true
     },
     header: {
-      logo: true,
+      logo: false,
       showLinkIcon: true,
       exclude: [],
       fluid: true
-    }
+    },
+    footer: {}
   }
 })
