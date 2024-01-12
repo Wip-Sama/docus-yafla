@@ -1,0 +1,1 @@
+{"id":"2d80d7ae-6008-497f-9aa6-72654a2f2298","timestamp":1705073366775,"matcher":{"static":{"/":null,"/api":null,"/api/search":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/introduction/yafla","/scripts/gui/gui_components","/scripts/gui/gui_builder","/prototypes/styles","/scripts/gui/introduction","/scripts/extended_table","/scripts/actions"]}
